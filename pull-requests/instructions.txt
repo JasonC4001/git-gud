@@ -1,1 +1,3 @@
 Make a PR (pull request) containing a text file with something you learned today, what you’re thinking of having for dinner, what your summer plans are, how much you love MHC++, or anything else you'd like to share :)
+
+
